@@ -1,3 +1,21 @@
 .gitingnore
 CLAUDE.md
 AGENTS.md
+
+# .NET
+bin/
+obj/
+*.user
+
+# Node / web apps
+node_modules/
+dist/
+.vite/
+
+# Avalonia / IDE
+.vs/
+*.suo
+
+# Environment
+.env
+.env.local
